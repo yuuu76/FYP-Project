@@ -95,7 +95,7 @@ streamlit-timeline            ==0.0.2
 termcolor                     ==2.3.0
 textblob                      ==0.15.3
 torch                         ==2.1.0
-torchvision                   ==0.15.2a0
+# torchvision                   ==0.15.2a0
 transformers                  ==4.36.2
 umap                          ==0.1.1
 umap-learn                    ==0.5.5
