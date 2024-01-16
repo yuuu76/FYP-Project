@@ -4,7 +4,7 @@ import torch
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-from functions import topic_length
+# from functions import topic_length
 from functions import *
 
 
