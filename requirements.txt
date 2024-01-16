@@ -20,7 +20,6 @@ jsonschema==4.17.3
 lxml==4.9.1
 matplotlib==3.7.0
 nltk==3.7
-numba==0.56.4
 numexpr==2.8.4
 numpy ==1.23.5
 numpydoc==1.5.0
