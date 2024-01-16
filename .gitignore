@@ -1,1 +1,3 @@
-.vscode/
+.vscode/CNN_Articles_modified.csv
+.vscode/final_bertopic_model.pkl
+.vscode/merged_cnn.pkl
