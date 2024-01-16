@@ -46,17 +46,6 @@ spacy-legacy ==3.0.12
 spacy-loggers==1.0.4
 spyder==5.4.1
 spyder-kernels==2.4.1
-streamlit                     ==1.29.0
-streamlit-camera-input-live   ==0.2.0
-streamlit-card                ==0.0.4
-streamlit-chat                ==0.0.2.2
-streamlit-embedcode           ==0.1.2
-streamlit-extras              ==0.2.7
-streamlit-faker               ==0.0.2
-streamlit-image-coordinates   ==0.1.3
-streamlit-keyup               ==0.2.0
-streamlit-toggle-switch       ==1.0.2
-streamlit-vertical-slider     ==1.0.2
 tables                        ==3.7.0
 tabulate                      ==0.8.10
 text-unidecode                ==1.3
