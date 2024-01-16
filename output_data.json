@@ -1,0 +1,37 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Welcome to<br>Streamlit Timeline",
+          "text": "<p>A Streamlit Timeline component by integrating TimelineJS from Knightlab</p>"
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year": "2022",
+                "month": "1",
+                "day": "15"
+            },
+            "text": {
+                "headline": "Politics",
+                "text": "Description of Politics section."
+            }
+        },
+        {
+            "start_date": {
+                "year": "2023",
+                "month": "2",
+                "day": "28"
+            },
+            "text": {
+                "headline": "Technology",
+                "text": "Description of Technology section."
+            }
+        }
+    ]
+}
