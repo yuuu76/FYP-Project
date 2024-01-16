@@ -87,11 +87,11 @@ selenium                      ==4.10.0
 sentence-transformers         ==2.2.2
 streamlit                     ==1.29.0
 streamlit-timeline            ==0.0.2
-tensorflow                   == 2.15.0
-tensorflow-estimator          ==2.15.0
-tensorflow-hub                ==0.15.0
-tensorflow-intel              ==2.15.0
-tensorflow-io-gcs-filesystem  ==0.31.0
+# tensorflow                   == 2.15.0
+# tensorflow-estimator          ==2.15.0
+# tensorflow-hub                ==0.15.0
+# tensorflow-intel              ==2.15.0
+# tensorflow-io-gcs-filesystem  ==0.31.0
 termcolor                     ==2.3.0
 textblob                      ==0.15.3
 torch                         ==2.1.0
