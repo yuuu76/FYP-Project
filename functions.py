@@ -184,7 +184,7 @@ def dataframe_to_timeline_json(df):
         "title": {
             "media": {
                 "url": "",
-                "caption": "<a target=/"_blank/" href=''>credits</a>",
+                "caption": "",
                 "credit": ""
             },
             "text": {
@@ -474,7 +474,7 @@ def fitinto_trainedmodel(model, data, merged_CNN):
                 "title": {
                     "media": {
                         "url": "",
-                        "caption": "<a target=/"_blank/" href=''>credits</a>",
+                        "caption": "",
                         "credit": ""
                     },
                     "text": {
